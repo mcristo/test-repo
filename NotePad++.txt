@@ -1,0 +1,42 @@
+220485
+10.41.5.99
+user :sa
+pass: longngu220485
+
+C:\T24\JbaseDB\bnk\bnk.run
+
+Tong hop cac trieu dai VN -> notes
+
+X240, T440, T440s
+The T24 Enterprise Management Console
+
+the defaulting is no log files because it will affect the performance of the system but if you need to define a log you can amend the xml file log4j.properties under WEB-INF\classes
+GR001993
+
+Chay Enquiry tu dong, lay ket qua ra file
+
+t24mis: BNK/SYSTEM.END.OF.DAY5(VMBC.PL.POS.UPDATE.CET.DETS- VMB.BP)
+()
+
+VMBH.SAL.EXCEL.LOAD,VMB.LOAD
+chown t24mis:t24 /t24tapp2/t24uat1/bnk/bnk.run/T24LOG/
+
+[SHTK]
+      ,[LOAITIEN]
+      ,[MACHINHANH]
+      ,[DINHKY]
+      ,[NGAYDL]
+
+
+--------------------------------------
+Các lesson này có các tips nói chung và hướng dẫn cách làm cho 1 số loại bài khó nữa:
+
+Các technique: http://ielts-simon.com/…/2…/05/ielts-reading-techniques.html
+Advice về cách làm bài Reading: http://ielts-simon.com/…/20…/01/ielts-reading-my-advice.html
+Suggest các cách luyện tập: http://ielts-simon.com/…/ielts-reading-some-suggestions.html
+Cách quản lý thời gian: http://ielts-simon.com/ielts-help…/…/ielts-reading-time.html
+Dạng bài match headings: http://ielts-simon.com/…/ielts-reading-paragraph-headings.h…
+Dạng bài “which paragraph contains…”: http://ielts-simon.com/…/ielts-reading-which-paragraph-cont…
+False/Not Given: http://ielts-simon.com/…/ielts-reading-false-or-not-given.h…
+Dạng multiple choice: http://ielts-simon.com/…/06/ielts-reading-multiple-choice.h…
+Dạng nối tên người: http://ielts-simon.com/…/12/ielts-reading-match-the-names.h…
